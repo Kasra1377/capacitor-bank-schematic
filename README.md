@@ -1,2 +1,4 @@
 # capacitor-bank-schematic
-A complete schematic of a sample real-world capacitor bank
+Capacitor banks are widely used in power system grids and industries to decrease the overall current from the upstream network and power stations. Industirial Capacitor banks, without injecting or absorbing active power (P), inject or absorb reactive power (Q) in such a way to decrease the overall current from upstream network and more importantly keep the power factor above 0.9 to avoid penalties for the utility owner from the distribution company. This decreased current leads to lower cable size and heating in the grid.
+
+This repository provides a complete schematic diagram sample of a real-world capacitor bank that it is utilized by industries. These schematics include the internal (that is detailed with different components) and external side of a capacitor bank frame. It is note worthy that the frame and its components (e.g., contactors, MCCBs, capacitor contactors, etc.)
