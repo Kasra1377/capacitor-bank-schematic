@@ -21,6 +21,9 @@ The screenshots of the schematics are included down below, and corresponding sch
 
 
 # panel external and internal schematic
+<p align="center">
+  <img width="450" height="1050" src="screenshots/Panel Internal & External-images-0.jpg">
+</p>
 ![Panel](screenshots/Panel Internal & External-images-0.jpg)
 ![Panel](screenshots/Schneider, EZC250F, MCCB, 3P, 160 A-Model_page-0001.jpg)
 
