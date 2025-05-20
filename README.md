@@ -20,4 +20,5 @@ The compenents that are used in the bank includes:
 The screenshots of the schematics are included down below, and corresponding schematic PDFs are included in the 'schematics' folder.
 
 
-# schematics
+# panel external and internal schematic
+![Panel](screenshots/Panel Internal & External-images-0.jpg)
