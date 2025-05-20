@@ -30,11 +30,6 @@ The screenshots of the schematics are included down below, and corresponding sch
   <img width="1050" height="650" src="screenshots/Schneider, EZC250F, MCCB, 3P, 160 A-Model_page-0001.jpg">
 </p>
 
-# MCCB
-<p align="center">
-  <img width="1050" height="650" src="screenshots/Schneider, EZC250F, MCCB, 3P, 160 A-Model_page-0001.jpg">
-</p>
-
 # MCB
 <p align="center">
   <img width="1050" height="650" src="screenshots/MCB, iC60L, 3P, 63 A, C Curve-Model_page-0001.jpg">
