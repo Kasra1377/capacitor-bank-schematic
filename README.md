@@ -53,3 +53,15 @@ The screenshots of the schematics are included down below, and corresponding sch
   <img width="1050" height="650" src="screenshots/Panel Internal & External-images-2.jpg">
 </p>
 
+# Variable Frequency Drive
+<p align="center">
+  <img width="1050" height="650" src="screenshots/VFD.png">
+</p>
+<p align="center">
+  <img width="1050" height="650" src="screenshots/Variable Frequency Drive.png">
+</p>
+
+# Soft Starter
+<p align="center">
+  <img width="1050" height="650" src="screenshots/Soft Starter.png">
+</p>
